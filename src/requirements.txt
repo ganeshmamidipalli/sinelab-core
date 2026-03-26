@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+litellm
+langgraph
+langchain-core
+pydantic
+python-dotenv
+supabase
+httpx
+structlog
